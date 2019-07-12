@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetrofitSample</string>
+    <string name="empty">Post is empty</string>
+    <string name="unsuccessful">Response Unsuccessful</string>
+</resources>
